@@ -5,7 +5,7 @@ ehehe
 https://chatgpt.com/share/6849267e-bacc-8010-bea0-f8a2d7d1778a
 
 todo: make login(서로이웃 글도 가능하게)
-₩₩₩
+\\\
 naver_blog_arch/
 ├── archive/
 │   └── Uncategorized/
@@ -15,4 +15,4 @@ naver_blog_arch/
 ├── input_links.txt
 ├── naver_blog_archiver.py
 ├── processed.log
-₩₩₩
+\\\
